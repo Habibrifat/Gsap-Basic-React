@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Production build output
+dist/
+
+# Logs and temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite cache files
+.vite
+
+# Other development-specific files
+*.env.local
